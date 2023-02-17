@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main -fuction print with proper grammar, but the outcome is a piece of art,with prinf 
+ * main -fuction print with proper grammar,
+ * but the outcome is a piece of art,with prinf 
  *
  * Return: Always 0 (Success)
  */
