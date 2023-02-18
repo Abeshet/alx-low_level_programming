@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *main -  fuction print  Programming gramma 
+ *main - fuction print  Programming gramma 
  *
  * Return: Always 0 (Success)
  */
