@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main -fuction print with proper grammar 
+ *main -  fuction print  Programming grammar 
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
