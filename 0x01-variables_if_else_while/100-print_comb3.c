@@ -17,7 +17,7 @@
 			{
 				putchar(a);
 				putchar(b);
-				if (i == 57 && e == 56)
+				if (b == 57 && a == 56)
 				{
 					break;
 				putchar(',');
