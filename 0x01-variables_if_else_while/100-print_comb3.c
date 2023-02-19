@@ -20,9 +20,9 @@
 				if (b == 57 && a == 56)
 				{
 					break;
+				}
 				putchar(',');
 				putchar(' ');
-				}
 			}
 		}
 	}
