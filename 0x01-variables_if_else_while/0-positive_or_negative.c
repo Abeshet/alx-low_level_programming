@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*more headers goes there*/
-/* main - fuction which identify number is +ve,-ve or zero */
-/* betty style doc for function main goes there */
+/**more headers goes there
+* main - fuction which identify number is +ve,-ve or zero
+*etty style doc for function main goes there 
+*/
 int main(void)
 {
 	int n;
@@ -14,7 +15,7 @@ int main(void)
 		printf("%d is positive\n", n);
 	if (n == 0)
 		printf("%d is zero\n", n);
-	else 
+	else
 		printf("%d is negative\n", n);
 	return (0);
 }
