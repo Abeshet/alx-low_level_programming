@@ -2,7 +2,7 @@
 
 /**
  * _abs - Computes the absolute value of an integer.
- *take integer a asfunction parameter
+ *@a:take integer a asfunction parameter
  * Return: The absolute value of the integer.
  */
 int _abs(int a)
