@@ -2,7 +2,6 @@
 
 /**
 *print_numbers - print number
-* owned by Bwave ICT
 *Return: void
 */
 
