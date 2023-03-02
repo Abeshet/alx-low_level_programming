@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * leet - encodes a string into 
+ * leet - encodes a string 
  * @s: string to encode
  *
  * Return: address of s
